@@ -49,7 +49,7 @@ dd/mm/2023	1.0.0.1		XXX, Skyline	Initial version
 ****************************************************************************
 */
 
-namespace RDV
+namespace SLC-AS-RDV-TestScript_1
 {
 	using System;
 	using System.Collections.Generic;
