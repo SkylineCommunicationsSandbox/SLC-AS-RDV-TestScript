@@ -70,7 +70,7 @@ namespace SLC-AS-RDV-TestScript_1
 		public void Run(IEngine engine)
 		{
 			engine.GenerateInformation("yeet!!!");
-			var order = OrderFactory.CreateOrder("Order 1");
+			var order = OrderFactory.CreateOrder("JansChange Order 1");
 			order.Dispatch("Robin D");
 		}
 	}
